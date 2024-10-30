@@ -2,7 +2,7 @@
 A Community driven Kavita Manga Reading Server Discord bot.
 <br>
 
-![hillmanation_logo](assets/hillmanation_logo.png) ![kavita_logo](assets/kavita_logo.ico)
+![hillmanation_logo](assets/hillmanation_logo.png) ![kavita_logo](assets/kavita_logo.png)
 
 <br>
 
