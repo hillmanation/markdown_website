@@ -1,8 +1,7 @@
 #  Kavita Discord Bot
-A Community driven Kavita Manga Reading Server Discord bot.
+A Community driven Kavita Manga Reading Server Discord bot.         ![hillmanation_logo](assets/hillmanation_logo.png)  
 <br>
 
-![hillmanation_logo](assets/hillmanation_logo.png)  
 ![kavita_logo](assets/kavita.ico)
 
 <br>
