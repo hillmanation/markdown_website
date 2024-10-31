@@ -2,7 +2,7 @@
 A Community driven Kavita Manga Reading Server Discord bot.   
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/66786161?v=4" height="200"> <img src="https://avatars.githubusercontent.com/u/75760308?s=200&v=4" height="200">
+<img src="https://avatars.githubusercontent.com/u/66786161?v=4" height="100"> <img src="https://avatars.githubusercontent.com/u/75760308?s=200&v=4" height="100">
 
 
 <br>
