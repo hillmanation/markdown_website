@@ -1,3 +1,3 @@
-<a href="https://open.spotify.com/show/5JkJH6zfcv9kAeArej1JBT">
-  <img src="https://github.com/tobwil/markdown_website/assets/72387477/c25ae162-310f-46b6-adb2-d93d230baaea" width="200" height="200">
+<a href="https://open.spotify.com/show/6hkXdO1Yx5lQX7Dnp1mUBR?si=6b7a568f9e2846c9">
+  <img src="https://i.scdn.co/image/ab67656300005f1f819697dcab56fcf0cdb0fdd9" width="200" height="200">
 </a>
